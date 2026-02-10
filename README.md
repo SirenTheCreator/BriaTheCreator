@@ -1,7 +1,10 @@
 # GitHub-Account-Basics
+
 # SKILLS: LANGUAGES & TECHNOLOGIES
 •	Languages: Java, Python, C++, JavaScript, HTML5, CSS3, SQL, Panda, Swift.
+
 •	Frameworks/Libraries: React.js, Node.js, Express, Tailwind CSS.
+
 •	Tools & Databases: Git/GitHub, Docker, VS Code, Eclipse.
 
 
