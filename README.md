@@ -1,4 +1,4 @@
- # BriaTheCreator
+ # BTheCreator
 
 # SKILLS: LANGUAGES & TECHNOLOGIES
 •	Languages: Java, Python, C++, JavaScript, HTML5, CSS3, SQL, Panda, Swift.
